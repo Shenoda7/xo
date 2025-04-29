@@ -51,6 +51,8 @@ A simple two-player Tic-Tac-Toe game built with React. Players can rename themse
 ```bash
 # Clone the repository
 git clone https://github.com/Shenoda7/tic-tac-toe-react.git
+or 
+git clone git@github.com:Shenoda7/tic-tac-toe-react.git
 
 # Navigate into the project directory
 cd tic-tac-toe-react
