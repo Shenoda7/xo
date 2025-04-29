@@ -39,6 +39,7 @@ A simple two-player Tic-Tac-Toe game built with React. Players can rename themse
     ├── main.jsx
     ├── winning-combinations.js
     └── index.css
+    └── index.jsx
 
 ## Getting Started
 
