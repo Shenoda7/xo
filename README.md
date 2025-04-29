@@ -36,10 +36,9 @@ A simple two-player Tic-Tac-Toe game built with React. Players can rename themse
     │
     ├── GameOver.jsx
     ├── App.jsx
-    ├── main.jsx
+    ├── index.jsx
     ├── winning-combinations.js
     └── index.css
-    └── index.jsx
 
 ## Getting Started
 
